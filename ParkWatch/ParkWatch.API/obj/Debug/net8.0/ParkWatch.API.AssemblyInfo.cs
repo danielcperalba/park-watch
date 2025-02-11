@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParkWatch.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4f08f0bd18a2d60cac4cb317c7d4ccd8965b42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+323c45a63429b7c56448f72f411957b680d2a445")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParkWatch.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParkWatch.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
